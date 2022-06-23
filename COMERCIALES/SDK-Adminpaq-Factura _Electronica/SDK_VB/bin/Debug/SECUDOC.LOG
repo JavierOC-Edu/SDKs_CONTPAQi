@@ -1,0 +1,15 @@
+05/17/2022 16:49:15 : 401 - El rango de la fecha de generación no debe ser mayor a 72 horas para la emisión del timbre.
+HS:2022-05-17T16:49:15|HH:2022-05-17T16:49:15|HX:2022-03-16T12:36:54
+05/17/2022 16:49:15 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 80058449
+05/17/2022 16:49:15 : Error despues de timbrar dentro de BuildDocument- Error: 80058449
+05/17/2022 16:49:15 : Error al final de InvoiceImpl::GenerateCFD- Error: 80058449
+05/17/2022 16:50:20 : 401 - El rango de la fecha de generación no debe ser mayor a 72 horas para la emisión del timbre.
+HS:2022-05-17T16:50:20|HH:2022-05-17T16:50:20|HX:2022-03-16T12:36:54
+05/17/2022 16:50:20 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 80058449
+05/17/2022 16:50:20 : Error despues de timbrar dentro de BuildDocument- Error: 80058449
+05/17/2022 16:50:20 : Error al final de InvoiceImpl::GenerateCFD- Error: 80058449
+05/17/2022 16:51:29 : 401 - El rango de la fecha de generación no debe ser mayor a 72 horas para la emisión del timbre.
+HS:2022-05-17T16:51:29|HH:2022-05-17T16:51:29|HX:2022-03-16T12:36:54
+05/17/2022 16:51:29 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 80058449
+05/17/2022 16:51:29 : Error despues de timbrar dentro de BuildDocument- Error: 80058449
+05/17/2022 16:51:29 : Error al final de InvoiceImpl::GenerateCFD- Error: 80058449

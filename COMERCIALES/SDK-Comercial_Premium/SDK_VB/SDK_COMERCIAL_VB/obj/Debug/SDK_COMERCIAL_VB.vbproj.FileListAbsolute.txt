@@ -1,0 +1,26 @@
+C:\Users\daniel.morales\OneDrive - Computación en Acción, S.A. de C.V\Documentos\Cichar\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\bin\Debug\SDK_COMERCIAL_VB.exe.config
+C:\Users\daniel.morales\OneDrive - Computación en Acción, S.A. de C.V\Documentos\Cichar\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\bin\Debug\SDK_COMERCIAL_VB.exe
+C:\Users\daniel.morales\OneDrive - Computación en Acción, S.A. de C.V\Documentos\Cichar\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\bin\Debug\SDK_COMERCIAL_VB.pdb
+C:\Users\daniel.morales\OneDrive - Computación en Acción, S.A. de C.V\Documentos\Cichar\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\bin\Debug\SDK_COMERCIAL_VB.xml
+C:\Users\daniel.morales\OneDrive - Computación en Acción, S.A. de C.V\Documentos\Cichar\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.vbproj.AssemblyReference.cache
+C:\Users\daniel.morales\OneDrive - Computación en Acción, S.A. de C.V\Documentos\Cichar\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.Form1.resources
+C:\Users\daniel.morales\OneDrive - Computación en Acción, S.A. de C.V\Documentos\Cichar\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.Resources.resources
+C:\Users\daniel.morales\OneDrive - Computación en Acción, S.A. de C.V\Documentos\Cichar\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.vbproj.GenerateResource.cache
+C:\Users\daniel.morales\OneDrive - Computación en Acción, S.A. de C.V\Documentos\Cichar\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.vbproj.CoreCompileInputs.cache
+C:\Users\daniel.morales\OneDrive - Computación en Acción, S.A. de C.V\Documentos\Cichar\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.exe
+C:\Users\daniel.morales\OneDrive - Computación en Acción, S.A. de C.V\Documentos\Cichar\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.xml
+C:\Users\daniel.morales\OneDrive - Computación en Acción, S.A. de C.V\Documentos\Cichar\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.pdb
+C:\Users\daniel.morales\OneDrive - Computación en Acción, S.A. de C.V\Documentos\Cichar\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.SaldarDocumento.resources
+C:\Users\Javier Olivares\Documents\SDK\Practicas\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\bin\Debug\SDK_COMERCIAL_VB.exe.config
+C:\Users\Javier Olivares\Documents\SDK\Practicas\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\bin\Debug\SDK_COMERCIAL_VB.exe
+C:\Users\Javier Olivares\Documents\SDK\Practicas\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\bin\Debug\SDK_COMERCIAL_VB.pdb
+C:\Users\Javier Olivares\Documents\SDK\Practicas\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\bin\Debug\SDK_COMERCIAL_VB.xml
+C:\Users\Javier Olivares\Documents\SDK\Practicas\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.vbproj.AssemblyReference.cache
+C:\Users\Javier Olivares\Documents\SDK\Practicas\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.Form1.resources
+C:\Users\Javier Olivares\Documents\SDK\Practicas\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.Resources.resources
+C:\Users\Javier Olivares\Documents\SDK\Practicas\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.SaldarDocumento.resources
+C:\Users\Javier Olivares\Documents\SDK\Practicas\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.vbproj.GenerateResource.cache
+C:\Users\Javier Olivares\Documents\SDK\Practicas\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.vbproj.CoreCompileInputs.cache
+C:\Users\Javier Olivares\Documents\SDK\Practicas\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.exe
+C:\Users\Javier Olivares\Documents\SDK\Practicas\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.xml
+C:\Users\Javier Olivares\Documents\SDK\Practicas\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\SDK_COMERCIAL_VB\obj\Debug\SDK_COMERCIAL_VB.pdb

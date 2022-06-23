@@ -1,0 +1,11 @@
+C:\Users\Javier Olivares\Documents\SDK\Ejemplos\SDKFacturaElectronicaVB\bin\Debug\SDKFacturaElectronicaVB.exe.config
+C:\Users\Javier Olivares\Documents\SDK\Ejemplos\SDKFacturaElectronicaVB\bin\Debug\SDKFacturaElectronicaVB.exe
+C:\Users\Javier Olivares\Documents\SDK\Ejemplos\SDKFacturaElectronicaVB\bin\Debug\SDKFacturaElectronicaVB.pdb
+C:\Users\Javier Olivares\Documents\SDK\Ejemplos\SDKFacturaElectronicaVB\bin\Debug\SDKFacturaElectronicaVB.xml
+C:\Users\Javier Olivares\Documents\SDK\Ejemplos\SDKFacturaElectronicaVB\obj\Debug\SDKFacturaElectronicaVB.vbproj.AssemblyReference.cache
+C:\Users\Javier Olivares\Documents\SDK\Ejemplos\SDKFacturaElectronicaVB\obj\Debug\SDKFacturaElectronicaVB.Resources.resources
+C:\Users\Javier Olivares\Documents\SDK\Ejemplos\SDKFacturaElectronicaVB\obj\Debug\SDKFacturaElectronicaVB.vbproj.GenerateResource.cache
+C:\Users\Javier Olivares\Documents\SDK\Ejemplos\SDKFacturaElectronicaVB\obj\Debug\SDKFacturaElectronicaVB.vbproj.CoreCompileInputs.cache
+C:\Users\Javier Olivares\Documents\SDK\Ejemplos\SDKFacturaElectronicaVB\obj\Debug\SDKFacturaElectronicaVB.exe
+C:\Users\Javier Olivares\Documents\SDK\Ejemplos\SDKFacturaElectronicaVB\obj\Debug\SDKFacturaElectronicaVB.xml
+C:\Users\Javier Olivares\Documents\SDK\Ejemplos\SDKFacturaElectronicaVB\obj\Debug\SDKFacturaElectronicaVB.pdb

@@ -1,0 +1,14 @@
+C:\Users\Javier Olivares\Documents\SDK\Practicas\ConexiónSDKComercial\bin\x86\Debug\ConexiónSDKComercial.exe.config
+C:\Users\Javier Olivares\Documents\SDK\Practicas\ConexiónSDKComercial\bin\x86\Debug\ConexiónSDKComercial.exe
+C:\Users\Javier Olivares\Documents\SDK\Practicas\ConexiónSDKComercial\bin\x86\Debug\ConexiónSDKComercial.pdb
+C:\Users\Javier Olivares\Documents\SDK\Practicas\ConexiónSDKComercial\obj\x86\Debug\ConexiónSDKComercial.FormDocumentosMovimientos.resources
+C:\Users\Javier Olivares\Documents\SDK\Practicas\ConexiónSDKComercial\obj\x86\Debug\ConexiónSDKComercial.MenúPrincipal.resources
+C:\Users\Javier Olivares\Documents\SDK\Practicas\ConexiónSDKComercial\obj\x86\Debug\ConexiónSDKComercial.PrincipalForm.resources
+C:\Users\Javier Olivares\Documents\SDK\Practicas\ConexiónSDKComercial\obj\x86\Debug\ConexiónSDKComercial.Properties.Resources.resources
+C:\Users\Javier Olivares\Documents\SDK\Practicas\ConexiónSDKComercial\obj\x86\Debug\ConexiónSDKComercial.csproj.GenerateResource.cache
+C:\Users\Javier Olivares\Documents\SDK\Practicas\ConexiónSDKComercial\obj\x86\Debug\ConexiónSDKComercial.csproj.CoreCompileInputs.cache
+C:\Users\Javier Olivares\Documents\SDK\Practicas\ConexiónSDKComercial\obj\x86\Debug\ConexiónSDKComercial.exe
+C:\Users\Javier Olivares\Documents\SDK\Practicas\ConexiónSDKComercial\obj\x86\Debug\ConexiónSDKComercial.pdb
+C:\Users\Javier Olivares\Documents\SDK\Practicas\ConexiónSDKComercial\obj\x86\Debug\ConexiónSDKComercial.csproj.AssemblyReference.cache
+C:\Users\Javier Olivares\Documents\SDK\Practicas\ConexiónSDKComercial\obj\x86\Debug\Interop.SDKCONTPAQNGLib.dll
+C:\Users\Javier Olivares\Documents\SDK\Practicas\ConexiónSDKComercial\obj\x86\Debug\ConexiónSDKComercial.csproj.ResolveComReference.cache

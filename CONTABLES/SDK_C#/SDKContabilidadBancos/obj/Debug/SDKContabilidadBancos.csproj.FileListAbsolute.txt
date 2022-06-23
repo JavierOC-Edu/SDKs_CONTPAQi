@@ -1,0 +1,12 @@
+C:\Users\Javier Olivares\source\repos\SDKContabilidadBancos\SDKContabilidadBancos\bin\Debug\SDKContabilidadBancos.exe.config
+C:\Users\Javier Olivares\source\repos\SDKContabilidadBancos\SDKContabilidadBancos\bin\Debug\SDKContabilidadBancos.exe
+C:\Users\Javier Olivares\source\repos\SDKContabilidadBancos\SDKContabilidadBancos\bin\Debug\SDKContabilidadBancos.pdb
+C:\Users\Javier Olivares\source\repos\SDKContabilidadBancos\SDKContabilidadBancos\obj\Debug\Interop.SDKCONTPAQNGLib.dll
+C:\Users\Javier Olivares\source\repos\SDKContabilidadBancos\SDKContabilidadBancos\obj\Debug\SDKContabilidadBancos.csproj.ResolveComReference.cache
+C:\Users\Javier Olivares\source\repos\SDKContabilidadBancos\SDKContabilidadBancos\obj\Debug\SDKContabilidadBancos.Properties.Resources.resources
+C:\Users\Javier Olivares\source\repos\SDKContabilidadBancos\SDKContabilidadBancos\obj\Debug\SDKContabilidadBancos.csproj.GenerateResource.cache
+C:\Users\Javier Olivares\source\repos\SDKContabilidadBancos\SDKContabilidadBancos\obj\Debug\SDKContabilidadBancos.csproj.CoreCompileInputs.cache
+C:\Users\Javier Olivares\source\repos\SDKContabilidadBancos\SDKContabilidadBancos\obj\Debug\SDKContabilidadBancos.exe
+C:\Users\Javier Olivares\source\repos\SDKContabilidadBancos\SDKContabilidadBancos\obj\Debug\SDKContabilidadBancos.pdb
+C:\Users\Javier Olivares\source\repos\SDKContabilidadBancos\SDKContabilidadBancos\obj\Debug\SDKContabilidadBancos.csproj.AssemblyReference.cache
+C:\Users\Javier Olivares\source\repos\SDKContabilidadBancos\SDKContabilidadBancos\obj\Debug\SDKContabilidadBancos.MainForm.resources

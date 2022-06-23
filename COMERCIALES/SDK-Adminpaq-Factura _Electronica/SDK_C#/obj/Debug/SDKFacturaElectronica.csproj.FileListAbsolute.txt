@@ -1,0 +1,7 @@
+C:\Users\Javier Olivares\Documents\SDK\Casos SDK\Tickets\Ticket#2020051110001458\SDKFacturaElectronica\bin\Debug\SDKFacturaElectronica.exe.config
+C:\Users\Javier Olivares\Documents\SDK\Casos SDK\Tickets\Ticket#2020051110001458\SDKFacturaElectronica\bin\Debug\SDKFacturaElectronica.exe
+C:\Users\Javier Olivares\Documents\SDK\Casos SDK\Tickets\Ticket#2020051110001458\SDKFacturaElectronica\bin\Debug\SDKFacturaElectronica.pdb
+C:\Users\Javier Olivares\Documents\SDK\Casos SDK\Tickets\Ticket#2020051110001458\SDKFacturaElectronica\obj\Debug\SDKFacturaElectronica.csproj.AssemblyReference.cache
+C:\Users\Javier Olivares\Documents\SDK\Casos SDK\Tickets\Ticket#2020051110001458\SDKFacturaElectronica\obj\Debug\SDKFacturaElectronica.csproj.CoreCompileInputs.cache
+C:\Users\Javier Olivares\Documents\SDK\Casos SDK\Tickets\Ticket#2020051110001458\SDKFacturaElectronica\obj\Debug\SDKFacturaElectronica.exe
+C:\Users\Javier Olivares\Documents\SDK\Casos SDK\Tickets\Ticket#2020051110001458\SDKFacturaElectronica\obj\Debug\SDKFacturaElectronica.pdb

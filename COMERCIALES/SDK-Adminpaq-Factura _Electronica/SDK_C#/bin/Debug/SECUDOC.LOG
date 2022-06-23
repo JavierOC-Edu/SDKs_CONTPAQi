@@ -1,0 +1,386 @@
+10/28/2021 11:23:06 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 11:26:48 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 11:30:14 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 13:24:12 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 13:24:20 : 401 - El rango de la fecha de generación no debe ser mayor a 72 horas para la emisión del timbre.
+HS:2021-10-28T13:24:20|HH:2021-10-28T13:24:20|HX:2020-05-10T12:36:54
+10/28/2021 13:24:20 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 80058449
+10/28/2021 13:24:20 : Error despues de timbrar dentro de BuildDocument- Error: 80058449
+10/28/2021 13:24:20 : Error al final de InvoiceImpl::GenerateCFD- Error: 80058449
+10/28/2021 13:26:28 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 13:26:35 : 308 - El certificado no está autorizado por el SAT.
+
+10/28/2021 13:26:35 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583EC
+10/28/2021 13:26:35 : Error despues de timbrar dentro de BuildDocument- Error: 800583EC
+10/28/2021 13:26:35 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583EC
+10/28/2021 13:34:18 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 13:34:28 : COD_1026 - Como Proveedores Autorizados de Certificación es necesario que para el uso de este servicio nos dé su autorización mediante el siguiente contrato: https://www.cfdi.com.mx/manifiesto, se firmará solo una vez por cada razón social que utilice el servicio.
+
+10/28/2021 13:34:28 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800582B8
+10/28/2021 13:34:28 : Error despues de timbrar dentro de BuildDocument- Error: 800582B8
+10/28/2021 13:34:28 : Error al final de InvoiceImpl::GenerateCFD- Error: 800582B8
+10/28/2021 13:39:55 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 13:40:03 : COD_1026 - Como Proveedores Autorizados de Certificación es necesario que para el uso de este servicio nos dé su autorización mediante el siguiente contrato: https://www.cfdi.com.mx/manifiesto, se firmará solo una vez por cada razón social que utilice el servicio.
+
+10/28/2021 13:40:03 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800582B8
+10/28/2021 13:40:03 : Error despues de timbrar dentro de BuildDocument- Error: 800582B8
+10/28/2021 13:40:03 : Error al final de InvoiceImpl::GenerateCFD- Error: 800582B8
+10/28/2021 13:41:33 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 13:41:41 : COD_1026 - Como Proveedores Autorizados de Certificación es necesario que para el uso de este servicio nos dé su autorización mediante el siguiente contrato: https://www.cfdi.com.mx/manifiesto, se firmará solo una vez por cada razón social que utilice el servicio.
+
+10/28/2021 13:41:41 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800582B8
+10/28/2021 13:41:41 : Error despues de timbrar dentro de BuildDocument- Error: 800582B8
+10/28/2021 13:41:41 : Error al final de InvoiceImpl::GenerateCFD- Error: 800582B8
+10/28/2021 15:13:51 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 15:13:58 : COD_1026 - Como Proveedores Autorizados de Certificación es necesario que para el uso de este servicio nos dé su autorización mediante el siguiente contrato: https://www.cfdi.com.mx/manifiesto, se firmará solo una vez por cada razón social que utilice el servicio.
+
+10/28/2021 15:13:58 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800582B8
+10/28/2021 15:13:58 : Error despues de timbrar dentro de BuildDocument- Error: 800582B8
+10/28/2021 15:13:58 : Error al final de InvoiceImpl::GenerateCFD- Error: 800582B8
+10/28/2021 15:17:40 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 15:17:47 : COD_1026 - Como Proveedores Autorizados de Certificación es necesario que para el uso de este servicio nos dé su autorización mediante el siguiente contrato: https://www.cfdi.com.mx/manifiesto, se firmará solo una vez por cada razón social que utilice el servicio.
+
+10/28/2021 15:17:47 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800582B8
+10/28/2021 15:17:47 : Error despues de timbrar dentro de BuildDocument- Error: 800582B8
+10/28/2021 15:17:47 : Error al final de InvoiceImpl::GenerateCFD- Error: 800582B8
+10/28/2021 15:20:24 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 15:20:31 : COD_1026 - Como Proveedores Autorizados de Certificación es necesario que para el uso de este servicio nos dé su autorización mediante el siguiente contrato: https://www.cfdi.com.mx/manifiesto, se firmará solo una vez por cada razón social que utilice el servicio.
+
+10/28/2021 15:20:31 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800582B8
+10/28/2021 15:20:31 : Error despues de timbrar dentro de BuildDocument- Error: 800582B8
+10/28/2021 15:20:31 : Error al final de InvoiceImpl::GenerateCFD- Error: 800582B8
+10/28/2021 15:22:49 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 15:22:58 : COD_1026 - Como Proveedores Autorizados de Certificación es necesario que para el uso de este servicio nos dé su autorización mediante el siguiente contrato: https://www.cfdi.com.mx/manifiesto, se firmará solo una vez por cada razón social que utilice el servicio.
+
+10/28/2021 15:22:58 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800582B8
+10/28/2021 15:22:58 : Error despues de timbrar dentro de BuildDocument- Error: 800582B8
+10/28/2021 15:22:58 : Error al final de InvoiceImpl::GenerateCFD- Error: 800582B8
+10/28/2021 15:26:26 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 15:26:44 : COD_1026 - Como Proveedores Autorizados de Certificación es necesario que para el uso de este servicio nos dé su autorización mediante el siguiente contrato: https://www.cfdi.com.mx/manifiesto, se firmará solo una vez por cada razón social que utilice el servicio.
+
+10/28/2021 15:26:44 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800582B8
+10/28/2021 15:26:44 : Error despues de timbrar dentro de BuildDocument- Error: 800582B8
+10/28/2021 15:26:44 : Error al final de InvoiceImpl::GenerateCFD- Error: 800582B8
+10/28/2021 15:34:09 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 15:34:17 : COD_1026 - Como Proveedores Autorizados de Certificación es necesario que para el uso de este servicio nos dé su autorización mediante el siguiente contrato: https://www.cfdi.com.mx/manifiesto, se firmará solo una vez por cada razón social que utilice el servicio.
+
+10/28/2021 15:34:17 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800582B8
+10/28/2021 15:34:17 : Error despues de timbrar dentro de BuildDocument- Error: 800582B8
+10/28/2021 15:34:17 : Error al final de InvoiceImpl::GenerateCFD- Error: 800582B8
+10/28/2021 15:36:02 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 15:36:09 : COD_1026 - Como Proveedores Autorizados de Certificación es necesario que para el uso de este servicio nos dé su autorización mediante el siguiente contrato: https://www.cfdi.com.mx/manifiesto, se firmará solo una vez por cada razón social que utilice el servicio.
+
+10/28/2021 15:36:09 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800582B8
+10/28/2021 15:36:09 : Error despues de timbrar dentro de BuildDocument- Error: 800582B8
+10/28/2021 15:36:09 : Error al final de InvoiceImpl::GenerateCFD- Error: 800582B8
+10/28/2021 15:36:21 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 15:36:29 : COD_1026 - Como Proveedores Autorizados de Certificación es necesario que para el uso de este servicio nos dé su autorización mediante el siguiente contrato: https://www.cfdi.com.mx/manifiesto, se firmará solo una vez por cada razón social que utilice el servicio.
+
+10/28/2021 15:36:29 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800582B8
+10/28/2021 15:36:29 : Error despues de timbrar dentro de BuildDocument- Error: 800582B8
+10/28/2021 15:36:29 : Error al final de InvoiceImpl::GenerateCFD- Error: 800582B8
+10/28/2021 15:36:51 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 15:36:58 : COD_1026 - Como Proveedores Autorizados de Certificación es necesario que para el uso de este servicio nos dé su autorización mediante el siguiente contrato: https://www.cfdi.com.mx/manifiesto, se firmará solo una vez por cada razón social que utilice el servicio.
+
+10/28/2021 15:36:58 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800582B8
+10/28/2021 15:36:58 : Error despues de timbrar dentro de BuildDocument- Error: 800582B8
+10/28/2021 15:36:58 : Error al final de InvoiceImpl::GenerateCFD- Error: 800582B8
+10/28/2021 15:44:51 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 15:44:59 : COD_1026 - Como Proveedores Autorizados de Certificación es necesario que para el uso de este servicio nos dé su autorización mediante el siguiente contrato: https://www.cfdi.com.mx/manifiesto, se firmará solo una vez por cada razón social que utilice el servicio.
+
+10/28/2021 15:44:59 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800582B8
+10/28/2021 15:44:59 : Error despues de timbrar dentro de BuildDocument- Error: 800582B8
+10/28/2021 15:44:59 : Error al final de InvoiceImpl::GenerateCFD- Error: 800582B8
+10/28/2021 15:48:55 : COD_1026 - Como Proveedores Autorizados de Certificación es necesario que para el uso de este servicio nos dé su autorización mediante el siguiente contrato: https://www.cfdi.com.mx/manifiesto, se firmará solo una vez por cada razón social que utilice el servicio.
+
+10/28/2021 15:48:55 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800582B8
+10/28/2021 15:48:55 : Error despues de timbrar dentro de BuildDocument- Error: 800582B8
+10/28/2021 15:48:55 : Error al final de InvoiceImpl::GenerateCFD- Error: 800582B8
+10/28/2021 15:50:24 : COD_1026 - Como Proveedores Autorizados de Certificación es necesario que para el uso de este servicio nos dé su autorización mediante el siguiente contrato: https://www.cfdi.com.mx/manifiesto, se firmará solo una vez por cada razón social que utilice el servicio.
+
+10/28/2021 15:50:24 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800582B8
+10/28/2021 15:50:24 : Error despues de timbrar dentro de BuildDocument- Error: 800582B8
+10/28/2021 15:50:24 : Error al final de InvoiceImpl::GenerateCFD- Error: 800582B8
+10/28/2021 15:54:31 : NOM155 - El valor del atributo FechaInicialPago no es menor o igual al valor del atributo FechaFinalPago.
+
+10/28/2021 15:54:31 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 80058353
+10/28/2021 15:54:31 : Error despues de timbrar dentro de BuildDocument- Error: 80058353
+10/28/2021 15:54:31 : Error al final de InvoiceImpl::GenerateCFD- Error: 80058353
+10/28/2021 15:56:54 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 0
+10/28/2021 15:57:19 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 15:57:25 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 0
+10/28/2021 16:04:18 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 16:04:25 : NOM161 - El atributo Nomina.Emisor.RfcPatronOrigen no está inscrito en el SAT (l_RFC).
+
+10/28/2021 16:04:25 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 80058359
+10/28/2021 16:04:25 : Error despues de timbrar dentro de BuildDocument- Error: 80058359
+10/28/2021 16:04:25 : Error al final de InvoiceImpl::GenerateCFD- Error: 80058359
+10/28/2021 16:10:21 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 16:10:28 : NOM162 - El atributo Nomina.Emisor.RegistroPatronal se debe registrar.
+
+10/28/2021 16:10:28 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 8005835A
+10/28/2021 16:10:28 : Error despues de timbrar dentro de BuildDocument- Error: 8005835A
+10/28/2021 16:10:28 : Error al final de InvoiceImpl::GenerateCFD- Error: 8005835A
+10/28/2021 16:13:32 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 16:13:39 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 0
+10/28/2021 16:13:42 : ERROR: Fail loading data from file C:\Compacw\Empresas\FAC_Pruebas\Doctos\Timbrados\
+\2361.xml - Error: 800403EB
+10/28/2021 16:14:15 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 16:14:22 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 0
+10/28/2021 16:14:25 : ERROR: Fail loading data from file C:\Compacw\Empresas\FAC_Pruebas\Doctos\Timbrados\
+\5855.xml - Error: 800403EB
+10/28/2021 16:15:38 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 16:15:44 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 0
+10/28/2021 16:15:47 : ERROR: Fail loading data from file C:\Compacw\Empresas\FAC_Pruebas\Doctos\Timbrados\
+\8171.xml - Error: 800403EB
+10/28/2021 16:16:24 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 16:16:31 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 0
+10/28/2021 16:16:34 : ERROR: Fail loading data from file C:\Compacw\Empresas\FAC_Pruebas\Doctos\Timbrados\
+\803.xml - Error: 800403EB
+10/28/2021 16:16:41 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 16:16:48 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 0
+10/28/2021 16:16:52 : ERROR: Fail loading data from file C:\Compacw\Empresas\FAC_Pruebas\Doctos\Timbrados\
+\6921.xml - Error: 800403EB
+10/28/2021 16:17:04 : ERROR: Initializing COM - Error: 80010106
+10/28/2021 16:17:11 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 0
+10/28/2021 16:17:13 : ERROR: Fail loading data from file C:\Compacw\Empresas\FAC_Pruebas\Doctos\Timbrados\
+\2393.xml - Error: 800403EB
+10/28/2021 16:19:19 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 0
+11/17/2021 13:31:34 : ERROR: Initializing COM - Error: 80010106
+11/17/2021 13:31:38 : N - 602 - Comprobante no encontrado.
+11/17/2021 14:45:47 : ERROR: Initializing COM - Error: 80010106
+11/17/2021 14:45:51 : N - 602 - Comprobante no encontrado.
+11/17/2021 14:46:36 : ERROR: Initializing COM - Error: 80010106
+11/17/2021 14:46:40 : 1110 - Ocurrió un error al procesar la solicitud.
+01/26/2022 12:50:28 : ERROR: Initializing COM - Error: 80010106
+01/26/2022 12:50:32 : 1120 - Los parámetros de entrada no pueden estar vacíos o son inválidos.
+03/16/2022 11:20:56 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 11:25:07 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 11:25:42 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 11:36:53 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 11:48:01 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 11:48:14 : 401 - El rango de la fecha de generación no debe ser mayor a 72 horas para la emisión del timbre.
+HS:2022-03-16T11:48:14|HH:2022-03-16T11:48:14|HX:2021-10-28T13:32:44
+03/16/2022 11:48:14 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 80058449
+03/16/2022 11:48:14 : Error despues de timbrar dentro de BuildDocument- Error: 80058449
+03/16/2022 11:48:14 : Error al final de InvoiceImpl::GenerateCFD- Error: 80058449
+03/16/2022 11:50:53 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 11:53:45 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 11:55:27 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 12:00:32 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 12:04:06 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 12:04:15 : 401 - El rango de la fecha de generación no debe ser mayor a 72 horas para la emisión del timbre.
+HS:2022-03-16T12:04:15|HH:2022-03-16T12:04:15|HX:2021-03-06T13:32:44
+03/16/2022 12:04:15 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 80058449
+03/16/2022 12:04:15 : Error despues de timbrar dentro de BuildDocument- Error: 80058449
+03/16/2022 12:04:15 : Error al final de InvoiceImpl::GenerateCFD- Error: 80058449
+03/16/2022 12:05:02 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 12:05:11 : 401 - El rango de la fecha de generación no debe ser mayor a 72 horas para la emisión del timbre.
+HS:2022-03-16T12:05:11|HH:2022-03-16T12:05:11|HX:2022-03-06T13:32:44
+03/16/2022 12:05:11 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 80058449
+03/16/2022 12:05:11 : Error despues de timbrar dentro de BuildDocument- Error: 80058449
+03/16/2022 12:05:11 : Error al final de InvoiceImpl::GenerateCFD- Error: 80058449
+03/16/2022 12:06:09 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 12:06:18 : 401 - El rango de la fecha de generación no debe ser mayor a 72 horas para la emisión del timbre.
+HS:2022-03-16T12:06:18|HH:2022-03-16T12:06:18|HX:2022-03-06T11:32:44
+03/16/2022 12:06:18 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 80058449
+03/16/2022 12:06:18 : Error despues de timbrar dentro de BuildDocument- Error: 80058449
+03/16/2022 12:06:18 : Error al final de InvoiceImpl::GenerateCFD- Error: 80058449
+03/16/2022 12:08:04 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 12:08:13 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+03/16/2022 12:08:13 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+03/16/2022 12:08:13 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+03/16/2022 12:08:13 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+03/16/2022 12:24:18 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 12:24:28 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+03/16/2022 12:24:28 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+03/16/2022 12:24:28 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+03/16/2022 12:24:28 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+03/16/2022 12:34:54 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 12:35:06 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+03/16/2022 12:35:06 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+03/16/2022 12:35:06 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+03/16/2022 12:35:06 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+03/16/2022 12:40:36 : ERROR: Initializing COM - Error: 80010106
+03/16/2022 12:40:50 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+03/16/2022 12:40:50 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+03/16/2022 12:40:50 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+03/16/2022 12:40:50 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+04/07/2022 09:18:52 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 09:19:58 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 09:22:33 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 09:23:12 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 09:35:25 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 09:44:05 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 09:48:53 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 09:54:15 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 09:59:43 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 10:01:18 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 10:02:03 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 10:14:04 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 10:14:56 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 10:18:04 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 10:19:04 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 10:19:23 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 10:23:57 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 10:25:19 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 11:17:19 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 11:35:45 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 11:37:58 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 11:39:45 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 12:39:56 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 12:40:01 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 0
+04/07/2022 12:43:19 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 12:43:24 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 0
+04/07/2022 12:43:43 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 12:45:57 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 12:47:29 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 12:50:09 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 12:57:40 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 12:58:32 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 13:02:08 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 15:28:50 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 15:29:16 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 15:30:17 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 15:30:31 : ERROR: Initializing COM - Error: 80010106
+04/07/2022 16:18:31 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 09:12:10 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 09:14:37 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 09:39:34 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 09:44:49 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 09:45:46 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 09:46:01 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 0
+04/08/2022 09:53:47 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 09:53:54 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+04/08/2022 09:53:54 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+04/08/2022 09:53:54 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+04/08/2022 09:53:54 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+04/08/2022 09:54:22 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 09:54:28 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+04/08/2022 09:54:28 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+04/08/2022 09:54:28 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+04/08/2022 09:54:28 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+04/08/2022 09:54:53 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 09:55:00 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+04/08/2022 09:55:00 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+04/08/2022 09:55:00 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+04/08/2022 09:55:00 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+04/08/2022 09:59:00 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 09:59:12 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+04/08/2022 09:59:12 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+04/08/2022 09:59:12 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+04/08/2022 09:59:12 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+04/08/2022 09:59:52 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 10:00:00 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+04/08/2022 10:00:00 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+04/08/2022 10:00:00 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+04/08/2022 10:00:00 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+04/08/2022 10:07:12 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 10:07:19 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+04/08/2022 10:07:19 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+04/08/2022 10:07:19 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+04/08/2022 10:07:19 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+04/08/2022 12:08:14 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 12:08:17 : Error al final de InvoiceImpl::GenerateCFD- Error: 800403FD
+04/08/2022 12:19:32 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 12:19:36 : Error al final de InvoiceImpl::GenerateCFD- Error: 800403FD
+04/08/2022 12:44:54 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 12:44:58 : Error al final de InvoiceImpl::GenerateCFD- Error: 800403FD
+04/08/2022 12:45:39 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 12:45:42 : Error al final de InvoiceImpl::GenerateCFD- Error: 800403FD
+04/08/2022 16:14:52 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 16:14:56 : Error al final de InvoiceImpl::GenerateCFD- Error: 800403FD
+04/08/2022 16:28:18 : ERROR: Initializing COM - Error: 80010106
+04/08/2022 16:28:24 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+04/08/2022 16:28:24 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+04/08/2022 16:28:24 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+04/08/2022 16:28:24 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+04/11/2022 08:10:26 : ERROR: Initializing COM - Error: 80010106
+04/11/2022 08:10:32 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+04/11/2022 08:10:32 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+04/11/2022 08:10:32 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+04/11/2022 08:10:32 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+04/11/2022 08:11:05 : ERROR: Initializing COM - Error: 80010106
+04/11/2022 08:11:09 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+04/11/2022 08:11:09 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+04/11/2022 08:11:09 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+04/11/2022 08:11:09 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+04/11/2022 08:12:17 : ERROR: Initializing COM - Error: 80010106
+04/11/2022 08:12:35 : ERROR: Initializing COM - Error: 80010106
+04/11/2022 08:12:40 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+04/11/2022 08:12:40 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+04/11/2022 08:12:40 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+04/11/2022 08:12:40 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+04/11/2022 08:15:19 : ERROR: Initializing COM - Error: 80010106
+04/11/2022 08:15:24 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation no está declarado o no contiene la definición correcta.
+04/11/2022 08:15:24 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+04/11/2022 08:15:24 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+04/11/2022 08:15:24 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+05/06/2022 13:10:53 : ERROR: Initializing COM - Error: 80010106
+05/06/2022 13:23:18 : ERROR: Initializing COM - Error: 80010106
+05/06/2022 13:23:51 : ERROR: Initializing COM - Error: 80010106
+05/06/2022 13:28:14 : ERROR: Initializing COM - Error: 80010106
+05/06/2022 15:07:23 : ERROR: Initializing COM - Error: 80010106
+05/06/2022 15:08:57 : ERROR: Initializing COM - Error: 80010106
+05/06/2022 15:09:24 : ERROR: Initializing COM - Error: 80010106
+05/06/2022 15:10:29 : ERROR: Initializing COM - Error: 80010106
+05/06/2022 15:12:49 : ERROR: Initializing COM - Error: 80010106
+05/06/2022 15:14:56 : ERROR: Initializing COM - Error: 80010106
+05/06/2022 15:22:40 : ERROR: Initializing COM - Error: 80010106
+05/06/2022 15:26:56 : ERROR: Initializing COM - Error: 80010106
+05/11/2022 16:28:37 : ERROR: Initializing COM - Error: 80010106
+05/11/2022 16:29:53 : ERROR: Initializing COM - Error: 80010106
+05/11/2022 16:36:04 : ERROR: Initializing COM - Error: 80010106
+05/11/2022 16:37:01 : ERROR: Initializing COM - Error: 80010106
+05/11/2022 16:37:32 : ERROR: Initializing COM - Error: 80010106
+05/11/2022 16:44:18 : ERROR: Initializing COM - Error: 80010106
+05/17/2022 19:02:19 : ERROR: Initializing COM - Error: 80010106
+05/17/2022 19:03:04 : ERROR: Initializing COM - Error: 80010106
+05/17/2022 19:05:02 : ERROR: Initializing COM - Error: 80010106
+05/17/2022 19:05:57 : ERROR: Initializing COM - Error: 80010106
+05/17/2022 19:06:40 : ERROR: Initializing COM - Error: 80010106
+05/17/2022 19:06:47 : 401 - El rango de la fecha de generación no debe ser mayor a 72 horas para la emisión del timbre.
+HS:2022-05-17T19:06:47|HH:2022-05-17T19:06:47|HX:2022-03-16T12:36:54
+05/17/2022 19:06:47 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 80058449
+05/17/2022 19:06:47 : Error despues de timbrar dentro de BuildDocument- Error: 80058449
+05/17/2022 19:06:47 : Error al final de InvoiceImpl::GenerateCFD- Error: 80058449
+06/02/2022 07:55:20 : ERROR: Initializing COM - Error: 80010106
+06/02/2022 07:55:47 : ERROR: Initializing COM - Error: 80010106
+06/02/2022 07:56:29 : ERROR: Initializing COM - Error: 80010106
+06/02/2022 07:56:32 : ERROR: Wrong Formed XML Document - Reason (Error en la restricción length.
+De acuerdo con su tipo de datos, el atributo 'NoCertificado' no tiene un valor admisible.
+)
+06/02/2022 07:56:41 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 0
+06/22/2022 15:09:54 : ERROR: Initializing COM - Error: 80010106
+06/22/2022 15:10:05 : 401 - El rango de la fecha de generación no debe ser mayor a 72 horas para la emisión del timbre.
+HS:2022-06-22T15:10:05|HH:2022-06-22T15:10:05|HX:2022-05-28T11:48:17
+06/22/2022 15:10:05 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 80058449
+06/22/2022 15:10:05 : Error despues de timbrar dentro de BuildDocument- Error: 80058449
+06/22/2022 15:10:05 : Error al final de InvoiceImpl::GenerateCFD- Error: 80058449
+06/22/2022 15:11:28 : ERROR: Initializing COM - Error: 80010106
+06/22/2022 15:11:33 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+06/22/2022 15:11:33 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+06/22/2022 15:11:33 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+06/22/2022 15:11:33 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+06/22/2022 15:13:29 : ERROR: Initializing COM - Error: 80010106
+06/22/2022 15:13:34 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+06/22/2022 15:13:34 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+06/22/2022 15:13:34 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+06/22/2022 15:13:34 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
