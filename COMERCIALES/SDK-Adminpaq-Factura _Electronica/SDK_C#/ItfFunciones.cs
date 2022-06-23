@@ -98,7 +98,7 @@ namespace SDKFacturaElectronica
         }
         #endregion
 
-        #region Timbrado de Pagos
+        #region Timbrado CFDIs
 
         #region COMPLEMENTOPAGOXML
 
@@ -138,7 +138,7 @@ namespace SDKFacturaElectronica
         private static void TimbrarXMLconComplemento()
         {
             //Variables que irán como parametro
-            string aRutaXML = @"C:\Compacw\Empresas\FAC_Pruebas\Doctos\DoctosPruebas\sinTFD_complemento.xml";
+            string aRutaXML = @"C:\Compacw\Empresas\FAC_Pruebas\Doctos\DoctosPruebas\CCE.xml";
             string aCodConcepto = "FCCE";
             StringBuilder aUUID = new StringBuilder("");
             string aRutaDDA = "";

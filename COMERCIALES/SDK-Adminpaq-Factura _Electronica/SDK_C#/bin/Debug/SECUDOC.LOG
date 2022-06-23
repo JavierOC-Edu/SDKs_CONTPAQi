@@ -384,3 +384,27 @@ El atributo xsi:schemaLocation contiene complementos inexistentes en el comproba
 06/22/2022 15:13:34 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
 06/22/2022 15:13:34 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
 06/22/2022 15:13:34 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+06/23/2022 10:44:19 : ERROR: Initializing COM - Error: 80010106
+06/23/2022 10:44:25 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+06/23/2022 10:44:25 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+06/23/2022 10:44:25 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+06/23/2022 10:44:25 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
+06/23/2022 10:46:40 : ERROR: Initializing COM - Error: 80010106
+06/23/2022 10:46:45 : 401 - El rango de la fecha de generación no debe ser mayor a 72 horas para la emisión del timbre.
+HS:2022-06-23T10:46:45|HH:2022-06-23T10:46:45|HX:2022-06-23T11:48:17
+06/23/2022 10:46:45 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 80058449
+06/23/2022 10:46:45 : Error despues de timbrar dentro de BuildDocument- Error: 80058449
+06/23/2022 10:46:45 : Error al final de InvoiceImpl::GenerateCFD- Error: 80058449
+06/23/2022 10:54:07 : ERROR: Initializing COM - Error: 80010106
+06/23/2022 10:54:11 : 401 - El rango de la fecha de generación no debe ser mayor a 72 horas para la emisión del timbre.
+HS:2022-06-23T10:54:11|HH:2022-06-23T10:54:11|HX:2022-05-28T11:48:17
+06/23/2022 10:54:11 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 80058449
+06/23/2022 10:54:11 : Error despues de timbrar dentro de BuildDocument- Error: 80058449
+06/23/2022 10:54:11 : Error al final de InvoiceImpl::GenerateCFD- Error: 80058449
+06/23/2022 11:01:47 : ERROR: Initializing COM - Error: 80010106
+06/23/2022 11:01:52 : 301 - La estructura del XML es incorrecta.
+El atributo xsi:schemaLocation contiene complementos inexistentes en el comprobante o su definición no es correcta.
+06/23/2022 11:01:52 : Despues: TimbradoCFDREST   temporal: C:\Users\JAVIER~1\AppData\Local\Temp\ - Resultado - Error: 800583E5
+06/23/2022 11:01:52 : Error despues de timbrar dentro de BuildDocument- Error: 800583E5
+06/23/2022 11:01:52 : Error al final de InvoiceImpl::GenerateCFD- Error: 800583E5
