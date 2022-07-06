@@ -411,21 +411,37 @@ namespace SDKFacturaElectronica
         #region ALTA / REGISTRO
         private void NuevoClienteProveedor()
         {
-            MGW_SDK_F.tCteProv Cliente = new MGW_SDK_F.tCteProv();
+            string aCodCteProv = "PGEN";
 
-            Cliente.cCodigoCliente = "PGEN";
-            Cliente.cRazonSocial = "PUBLICO EN GENERAL";
-            Cliente.cRFC = "XAXX010101000";
-            Cliente.cTipoCliente = 2; //1 = cliente, 2 = cliente/proveedor, 3 = proveedor
+            if (!BuscarClienteProveedor(aCodCteProv))
+            {
+                MGW_SDK_F.tCteProv Cliente = new MGW_SDK_F.tCteProv();
 
-            int aIdCliente = 0;
+                Cliente.cCodigoCliente = aCodCteProv;
+                Cliente.cRazonSocial = "PUBLICO EN GENERAL";
+                Cliente.cRFC = "XAXX010101000";
+                Cliente.cTipoCliente = 2; //1 = cliente, 2 = cliente/proveedor, 3 = proveedor
 
-            MGW_SDK_F.lError = MGW_SDK_F.fAltaCteProv( ref aIdCliente, ref Cliente);
+                int aIdCliente = 0;
 
+                MGW_SDK_F.lError = MGW_SDK_F.fAltaCteProv(ref aIdCliente, ref Cliente);
+            }
         }
-        
         #endregion
 
+        #region BUSCAR 
+
+        private bool BuscarClienteProveedor( string aCodCteProv)
+        {
+            bool existe = false;
+            // la función buscara el codigo de cliente que le envies
+            if ( MGW_SDK_F.fBuscaCteProv( aCodCteProv) == 0)
+            {//si ese codigo se encuentre registrado en la BDD retornara un 0 indicando que se busco correctamente
+                existe = true;
+            }//en caso de que no exista retornara el numero de error que corresponda al porque no se encontro
+            return existe;
+        }
+        #endregion
 
         #endregion
 
